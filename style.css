@@ -1,0 +1,165 @@
+body{
+    background-color: rgb(138, 36, 248);
+ 
+}
+.box1{
+    background-color:black ;
+    width: 350px;
+    height: 500px;
+    border-radius: 15px;
+    margin-top: 130px;
+    margin-left: 600px;
+    
+}
+.box2{
+ display: flex;
+ justify-content: center;
+ gap: 50px;
+ flex-direction: row;
+
+ padding: 5%;
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ color: aliceblue;
+ 
+
+ 
+}
+.box3{
+    color: rgb(106, 175, 236);
+    margin-bottom: 30px;
+    padding: 40px;
+    /* display: flex;
+    justify-content: center;
+    flex-direction: column; */
+    margin-left: 40px;
+    font-size: larger;
+}
+.box4{
+    font-size: larger;
+    color: rgb(111, 173, 227);
+    margin-left: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-items: center;
+  
+}
+.box5{
+    color: white;
+    margin-top: 50px;
+    
+}
+.kadosh{
+    display: flex;
+    justify-content: center;
+   
+}
+/* .sign{
+        
+        font-size: larger;
+        border-radius: 10px;
+        background-color: rgb(237, 198, 198);
+
+        animation-name: color;
+        animation-duration: 60s;
+        animation-iteration-count: infinite;
+    }
+    @keyframes color{
+        0% {background-color: red;
+    
+        }
+        10% {background-color:blue;
+        }
+        20% {background-color: rgb(216, 222, 172);
+        }
+        30% {background-color: rgb(151, 124, 151);
+        }
+        40% {background-color: rgb(97, 9, 198);
+        }
+        50% {background-color: rgb(227, 178, 19);
+        }
+        60% {background-color: rgb(223, 233, 219);
+        }
+        70% {background-color: rgb(169, 224, 141);
+        }
+        80% {background-color: rgb(11, 68, 32);
+        }
+        90% {background-color: rgb(178, 22, 128);
+        }
+        100% {background-color: rgb(141, 76, 134);
+        }
+           
+    }
+    .log{
+        font-size: larger;
+        border-radius: 10px;
+        background-color: rgb(237, 198, 198);
+        color: white;
+        animation-name: color;
+        animation-duration: 60s;
+        animation-iteration-count: infinite;
+        
+    }
+    @keyframes color{
+        0% {background-color: red;
+    
+        }
+        10% {background-color:blue;
+        }
+        20% {background-color: rgb(216, 222, 172);
+        }
+        30% {background-color: rgb(151, 124, 151);
+        }
+        40% {background-color: rgb(97, 9, 198);
+        }
+        50% {background-color: rgb(227, 178, 19);
+        }
+        60% {background-color: rgb(223, 233, 219);
+        }
+        70% {background-color: rgb(169, 224, 141);
+        }
+        80% {background-color: rgb(11, 68, 32);
+        }
+        90% {background-color: rgb(178, 22, 128);
+        }
+        100% {background-color: rgb(141, 76, 134);
+        }
+           
+    }  */
+button{
+    border-radius: 8px;
+    font-size: larger;
+    background-color: aquamarine;
+    animation-name: color;
+    animation-duration: 60s;
+    animation-iteration-count: infinite;
+    
+}
+@keyframes color{
+    0% {background-color: red;
+
+    }
+    10% {background-color:blue;
+    }
+    20% {background-color: rgb(216, 222, 172);
+    }
+    30% {background-color: rgb(151, 124, 151);
+    }
+    40% {background-color: rgb(97, 9, 198);
+    }
+    50% {background-color: rgb(227, 178, 19);
+    }
+    60% {background-color: rgb(223, 233, 219);
+    }
+    70% {background-color: rgb(169, 224, 141);
+    }
+    80% {background-color: rgb(11, 68, 32);
+    }
+    90% {background-color: rgb(178, 22, 128);
+    }
+    100% {background-color: rgb(141, 76, 134);
+    }
+}
+    
+
+   
+
